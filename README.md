@@ -14,7 +14,7 @@
 
 ### 🔧 Need your help !
 
-If you want to add your language to the bot, contact me via **tapsmc12@gmail.com** with object **Turnipfication translate** or [**open issue**](https://github.com/TapsHTS/turnipfication/issues) with the same objet.
+If you want to add your language to the bot, contact me via **tapsmc12@gmail.com** with object **Turnipfication translate** or [**open issue**](https://github.com/TapsHTS/turnipfication/issues/new?assignees=&labels=enhancement%2C+language&template=translate-to-another-language.md&title=%5BTRANSLATE%5D) with the same objet.
 
 | Languages             | Status                                                                |
 | ----------------- | ------------------------------------------------------------------ |
