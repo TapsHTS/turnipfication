@@ -2,7 +2,7 @@
 
 #### 🍠  You want to be **notified** when an offer of [https://turnip.exchange/](https://turnip.exchange/) will be **added** ?
 
-**Add me** to your Discord server ! Configure the **notification channel** for the **Nook Shop** or for **Daisy** or display all the offers, simple and effective thanks to the **slash commands**.
+**[Add me](https://discord.com/api/oauth2/authorize?client_id=998221615231938651&permissions=2147871808&scope=bot%20applications.commands)** to your Discord server ! Configure the **notification channel** for the **Nook Shop** or for **Daisy** or display all the offers, simple and effective thanks to the **slash commands**.
 
 ### 🖥 Available commands:
 
